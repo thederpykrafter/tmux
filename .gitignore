@@ -1,2 +1,2 @@
-plugins/
+plugins/**
 !plugins/.keep_dir_in_repo
