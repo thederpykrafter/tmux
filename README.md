@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/github/thederpykrafter/tmux.svg)](https://wakatime.com/badge/github/thederpykrafter/tmux)
 # tmux
 
 ```bash
